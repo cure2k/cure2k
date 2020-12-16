@@ -7,7 +7,7 @@
 
 <center>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=cure2k&show_icons=true&theme=dracula&hide_border=true" width="%100" height="150px" alt="stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=cure2k&show_icons=true&theme=tokyonight&hide_border=true" width="%100" height="150px" alt="stats" />
   </p>
 
 <h3>Diller</h3>
