@@ -5,9 +5,8 @@
   <a href="https://github.com/cure2k" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
-<p align="center">
-  <img src="/api?username=cure2k&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
-</p>
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=cure2k&show_icons=true)
+
 <h3>Diller</h3>
 <p align="left">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
