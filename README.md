@@ -5,7 +5,7 @@
   <a href="https://github.com/cure2k" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 <center>
-![Cure2K github stats](https://github-readme-stats.vercel.app/api?username=cure2k&show_icons=true&theme=radical)
+![Cure2K github stats](https://github-readme-stats.vercel.app/api?username=cure2k&show_icons=true&theme=dark)
 </center>
 
 <h3>Diller</h3>
