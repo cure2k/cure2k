@@ -6,8 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="
-            /api?username=cure2k&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
+  <img src="/api?username=cure2k&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
 </p>
 <h3>Diller</h3>
 <p align="left">
